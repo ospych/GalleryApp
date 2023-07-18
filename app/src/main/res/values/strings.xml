@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="liked">Liked: %s</string>
+    <string name="views">Views: %s</string>
+    <string name="downloads">Downloads: %s</string>
+    <string name="desc">Description: %s</string>
+</resources>
